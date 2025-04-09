@@ -1,0 +1,65 @@
+{
+  "rouge1": 0.7467623839170825,
+  "rouge2": 0.5838875362469004,
+  "rougeL": 0.7148057088162285,
+  "rougeLsum": 0.7166043608096123,
+  "bleu": 0.4922137411293875,
+  "Predicted Summary": "poisoneander poisoning occurs when someone eats flowers flowers or chews the leaves or stems of the oleander plant erium oleander or its relative, the yellow oleander ascabela thevetia  you or someone you are with has an actual, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the united States",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}{
+  "rouge1": 0.7557886374600122,
+  "rouge2": 0.6021195239612018,
+  "rougeL": 0.7242625103755125,
+  "rougeLsum": 0.7256024381139135,
+  "bleu": 0.5333390882274311,
+  "Predicted Summary": "eander poisoning occurs when someone eats flowers flowers or chews the leaves or stems of the oleander plant (erium oleander or its relative, the yellow oleander (ascabela thevetia If you or someone you are with has an actual, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the united States you questions about or",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}{
+  "rouge1": 0.7632805865184584,
+  "rouge2": 0.6104105123332113,
+  "rougeL": 0.7347915366254882,
+  "rougeLsum": 0.7361003732571191,
+  "bleu": 0.5896163547900197,
+  "Predicted Summary": "Theeander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (erium oleander or its relative, the yellow oleander (ascabela thevetia) This you or someone you are with has has exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. can call if you have any questions about poisoning or",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}{
+  "rouge1": 0.7754875110497326,
+  "rouge2": 0.6341239539810757,
+  "rougeL": 0.7450515487501201,
+  "rougeLsum": 0.7472191833920316,
+  "bleu": 0.6270856663779163,
+  "Predicted Summary": "Theeander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (erium oleander or its relative, the yellow oleander (ascabela thevetia This you have someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. should call forif you have any questions about poisoning or poison",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}{
+  "rouge1": 0.7832333536853742,
+  "rouge2": 0.6456823516299008,
+  "rougeL": 0.7545074261034437,
+  "rougeLsum": 0.756146803704346,
+  "bleu": 0.6387571351395057,
+  "Predicted Summary": "Theeander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (erium oleander or its relative, the yellow oleander (ascabela thevetia This you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States should call forif you have any questions about poisoning or poison",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}{
+  "rouge1": 0.7868192278951063,
+  "rouge2": 0.6499555311140577,
+  "rougeL": 0.7580348785479514,
+  "rougeLsum": 0.7597388376794147,
+  "bleu": 0.6469773543131718,
+  "Predicted Summary": "Theeander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (erium oleander or its relative, the yellow oleander (ascabela thevetia This you are someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. can call forif you have any questions about poisoning or poison",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}{
+  "rouge1": 0.7919926106547108,
+  "rouge2": 0.6565430589861576,
+  "rougeL": 0.7622512015102045,
+  "rougeLsum": 0.763741829142786,
+  "bleu": 0.6518930812536841,
+  "Predicted Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (erium oleander or its relative, the yellow oleander (ascabela thevetia This you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. should call forif you have any questions about poisoning or poison",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}{
+  "rouge1": 0.7935702995091988,
+  "rouge2": 0.6603063608093724,
+  "rougeL": 0.7649514923609717,
+  "rougeLsum": 0.7662589853777402,
+  "bleu": 0.6556354522872686,
+  "Predicted Summary": "Theeander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (erium oleander or its relative, the yellow oleander (ascabela thevetia This you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. This should call forif you have any questions about poisoning or poison",
+  "Reference Summary": "Oleander poisoning occurs when someone eats the flowers or chews the leaves or stems of the oleander plant (Nerium oleander), or its relative, the yellow oleander (Cascabela thevetia). If you or someone you are with has an exposure, call your local emergency number (such as 911), or your local poison center can be reached directly by calling the national toll-free Poison Help hotline (1-800-222-1222) from anywhere in the United States. You should call if you have any questions about poisoning or"
+}
